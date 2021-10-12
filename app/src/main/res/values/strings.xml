@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">A New World</string>
+    <string name="greenTitle">greenTitleImage</string>
+    <string name="startButton">Start the story</string>
+    <string name="nameHint">Your name</string>
+    <string name="key_name">name</string>
+    <string name="tittleTextView1">Welcome to (possibly)</string>
+    <string name="tittleTextView2">A NEW WORLD</string>
+    <string name="play_again_button">PLAY AGAIN</string>
+    <string name="scroll_tip">- Scroll down -</string>
+
+    <string name="page_description">story_page_content_description</string>
+
+    <string name="page0">Life is booming in your planet. Economies are doing great, and technology is advancing at an astronomical pace. \nYou wake up, and everything seems as usual, except for a blinking light on your mail box by the door. \nYou also realize you\'re late for THE job interview.</string>
+    <string name="page0_choice1">CHECK THE BLINKING LIGHT</string>
+    <string name="page0_choice2">GET READY FOR THE INTERVIEW</string>
+    <string name="page0_tittleTextView1">Good</string>
+    <string name="page0_tittleTextView2">MORNING</string>
+
+    <string name="page1">You open the mail box, and find a plant vase. Inside it, a seed lays peacefully.</string>
+    <string name="page1_choice1">TOUCH THE SEED</string>
+    <string name="page1_choice2">LEAVE IT BE</string>
+    <string name="page1_tittleTextView1">What\'s</string>
+    <string name="page1_tittleTextView2">THAT?</string>
+
+    <string name="page2">You get dressed in a hurry, and gulp down something for breakfast. It\'s late, and as you open the door to leave, you give a last glance at the blinking light.</string>
+    <string name="page2_choice1">GO BACK AND EXAMINE THE LIGHT</string>
+    <string name="page2_choice2">OH MY! LOOK AT THE TIME, I\'M LATE!!</string>
+    <string name="page2_tittleTextView1">tick</string>
+    <string name="page2_tittleTextView2">TACK…</string>
+    
+    <string name="page3">To your surprise, the seed emits an hologram with a video message, from a woman you\'ve never seen before. You hit play: \n\n\"Hello, %1$s. I work for an underground society chased by international governments. We managed to develop a contraption capable of instantly eradicate any type of technology that uses fossil energy, also brainwashing people\'s mind and clean off their current habits. That\'s how we believe our planet could be preserved for longer generations. That contraption is the seed in the vase, code named: [tHhe_SeEd]. \nI was probably killed, reason why you received this message. All you have to do is press the \[EXECUTE\] button that will show up.\" \n\nThe message ends.</string>
+    <string name="page3_choice1">EXECUTE [tHe_SeEd]…</string>
+    <string name="page3_choice2">SO STRANGE. BETTER NOT PLAY AROUND</string>
+    <string name="page3_tittleTextView1">What\'s</string>
+    <string name="page3_tittleTextView2">HAPPENING?</string>
+
+    <string name="page4">Your worries about that blinking light slowly fades away from your mind. You look at the time and realize there\'s only one thing to do.</string>
+    <string name="page4_choice1">GO TO YOUR JOB INTERVIEW</string>
+    <string name="page4_tittleTextView1">Oh</string>
+    <string name="page4_tittleTextView2">WELL…</string>
+
+    <string name="page5">You press the button! The seed starts buzzing and emitting weird sounds. You get away from it, afraid of what might happen. Finally, a bright light shines through your house and a huge blast of energy comes from the seed, knocking you unconscious. There\'s a tremor that lasts for a minute. \nYou wake up with a hazy memory, and go outside without a single idea of what to do. The world feels different, yet you don\'t know how…</string>
+    <string name="page5_tittleTextView1">In the</string>
+    <string name="page5_tittleTextView2">END…</string>
+
+    <string name="page6">You managed to arrive at the interview just on time! It goes well, and you will start next week. There\'s a fading feeling about that blinking light, but you decide to prepare for the next big step of your career.</string>
+    <string name="page6_tittleTextView1">In the</string>
+    <string name="page6_tittleTextView2">END…</string>
+</resources>

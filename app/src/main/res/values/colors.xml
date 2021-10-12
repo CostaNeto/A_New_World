@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="actionBar">#009444</color>
+    <color name="purple_700">#009444</color>
+    <color name="editText1">#39B54A</color>
+    <color name="editText2">#009444</color>
+    <color name="editText3">#009444</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="verylightgray">#B1B1B1</color>
+</resources>
